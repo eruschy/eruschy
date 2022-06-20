@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @eruschy
 - 👀 I’m interested in CI/CD
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ... (I don't know yet)
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... (tbd)
+- 📫 You can reach me at eruschy@gmx.net
 
 <!---
 eruschy/eruschy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
